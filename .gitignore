@@ -2,3 +2,10 @@ node_modules/
 dist/
 .env
 .DS_Store
+auto-[0-9]*/
+auto-[0-9][0-9]*/
+*.jsonl
+*.json
+!package.json
+!server/package.json
+!client/package.json
