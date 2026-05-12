@@ -1,0 +1,12 @@
+{
+  "name": "ai-test-lab",
+  "version": "1.0.0",
+  "description": "AI 模型测试与数据标注工作区",
+  "scripts": {
+    "new": "node scripts/create-project.js",
+    "create-project": "node scripts/create-project.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
